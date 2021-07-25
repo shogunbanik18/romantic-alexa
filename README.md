@@ -1,3 +1,3 @@
 # romantic-alexa
-Build an Atificial Assistant
+Build an Arificial Assistant
 
