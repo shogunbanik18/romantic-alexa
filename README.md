@@ -1,3 +1,3 @@
 # romantic-alexa
-Build an Arificial Assistant
+My Personal Virtual Assistant
 
